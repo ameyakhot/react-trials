@@ -22,6 +22,9 @@ To run the React Search Engine locally, follow these steps:
 3. Install dependencies using `npm install`.
 4. Start the development server with `npm start`.
 
+### [Visit My Search Engine](https://ameyakhot.github.io/ReactJS-search-engine/)
+ 
+
 ## Project 2: Finance Landing Page
 
 ![Finance Landing Page Screenshot](/screenshots/finance-landing.png)
