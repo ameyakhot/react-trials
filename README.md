@@ -27,7 +27,7 @@ To run the React Search Engine locally, follow these steps:
 
 ## Project 2: Finance Landing Page
 
-![Finance Landing Page Screenshot](/screenshots/finance-landing.png)
+![Finance Landing Page Screenshot](/screenshots/finance-web-app.png)
 
 - **Description**: The Finance Landing Page is a responsive and sleek web page designed for financial services. It utilizes React.js and Tailwind CSS to create an elegant and modern user interface.
 
@@ -44,6 +44,8 @@ To run the Finance Landing Page locally, follow these steps:
 2. Navigate to the `FinanceLandingPage` directory.
 3. Install dependencies using `npm install`.
 4. Start the development server with `npm start`.
+
+###### [Visit My Finance Landing Page]([https://ameyakhot.github.io/ReactJS-search-engine/](https://ameyakhot.github.io/finance-webapp-react/))
 
 ## Questions or Issues?
 
