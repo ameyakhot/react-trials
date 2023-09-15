@@ -47,8 +47,4 @@ To run the Finance Landing Page locally, follow these steps:
 
 ###### [Visit My Finance Landing Page]([https://ameyakhot.github.io/ReactJS-search-engine/](https://ameyakhot.github.io/finance-webapp-react/))
 
-## Questions or Issues?
-
-If you have any questions, encounter issues, or want to contribute to these projects, please [open an issue](https://github.com/yourusername/your-repo-name/issues) or [submit a pull request](https://github.com/yourusername/your-repo-name/pulls).
-
 We hope you find these projects useful and inspiring! Happy coding!
