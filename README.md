@@ -4,7 +4,7 @@ Welcome to the React Web Projects Repository! This repository contains two disti
 
 ## Project 1: React Search Engine
 
-![React Search Engine Screenshot](/screenshots/search-engine.png)
+![React Search Engine Screenshot](/screenshots/React%20Image%20Search%20Engine.png)
 
 - **Description**: The React Search Engine is a responsive web application that allows users to perform image searches using the Google Search API. It provides a simple and intuitive interface to search for images on the web.
 
