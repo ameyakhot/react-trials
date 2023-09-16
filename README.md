@@ -45,6 +45,6 @@ To run the Finance Landing Page locally, follow these steps:
 3. Install dependencies using `npm install`.
 4. Start the development server with `npm start`.
 
-###### [Visit My Finance Landing Page]([https://ameyakhot.github.io/ReactJS-search-engine/](https://ameyakhot.github.io/finance-webapp-react/))
+### [Visit My Finance Landing Page](https://ameyakhot.github.io/finance-webapp-react/)
 
 We hope you find these projects useful and inspiring! Happy coding!
